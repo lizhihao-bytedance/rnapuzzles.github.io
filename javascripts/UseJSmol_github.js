@@ -8,7 +8,7 @@ var Info = {
 	height: 480,
 	debug: false,
 	color: "white",
-	j2sPath: "/rnapuzzles/javascripts/j2s",
+	j2sPath: "/javascripts/j2s",
 	readyFunction: jmol_isReady
 }
 
