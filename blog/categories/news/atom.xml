@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[News | RNA-Puzzles]]></title>
+  <link href="http://rnapuzzles.github.io/blog/categories/news/atom.xml" rel="self"/>
+  <link href="http://rnapuzzles.github.io/"/>
+  <updated>2018-08-13T14:37:58+01:00</updated>
+  <id>http://rnapuzzles.github.io/</id>
+  <author>
+    <name><![CDATA[Chichau Miau]]></name>
+    <email><![CDATA[chichaumiau@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[New RNA-Puzzles Website at Github]]></title>
+    <link href="http://rnapuzzles.github.io/blog/2018/01/25/new-rna-puzzles-website-at-github/"/>
+    <updated>2018-01-25T15:47:47+00:00</updated>
+    <id>http://rnapuzzles.github.io/blog/2018/01/25/new-rna-puzzles-website-at-github</id>
+    <content type="html"><![CDATA[<p>Considering the unstability of the old RNA-Puzzles web server (ahsoka),
+a new low-level RNA-Puzzzles website has been release at <a href="https://chichaumiau.github.io/rnapuzzles/">github</a>.
+Alternatively, the website can be accessed by <a href="rnapuzzles.tk">rnapuzzles.tk</a>.</p>
+
+<p>Further, we have released the results of <a href="https://chichaumiau.github.io/rnapuzzles/results/">Puzzle 21</a>, the Guanidine III Riboswitch.</p>
+
+<p>Best Wishes!</p>
+
+<p>Chichau</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[RNA-Puzzles Bench]]></title>
+    <link href="http://rnapuzzles.github.io/blog/2017/11/17/rna-puzzles-bench/"/>
+    <updated>2017-11-17T14:26:17+00:00</updated>
+    <id>http://rnapuzzles.github.io/blog/2017/11/17/rna-puzzles-bench</id>
+    <content type="html"><![CDATA[<p>RNA-Puzzles Bench as a Bench mark resource from RNA-Puzzles is available now.</p>
+]]></content>
+  </entry>
+  
+</feed>
