@@ -4,7 +4,7 @@
   <title><![CDATA[RNA-Puzzles]]></title>
   <link href="http://rnapuzzles.github.io/atom.xml" rel="self"/>
   <link href="http://rnapuzzles.github.io/"/>
-  <updated>2018-08-13T23:44:21+01:00</updated>
+  <updated>2018-08-16T09:17:58+01:00</updated>
   <id>http://rnapuzzles.github.io/</id>
   <author>
     <name><![CDATA[Chichau Miau]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[UR 1st Round Submission Table]]></title>
+    <link href="http://rnapuzzles.github.io/blog/2018/08/14/ur-1st-round-submission-table/"/>
+    <updated>2018-08-14T00:04:00+01:00</updated>
+    <id>http://rnapuzzles.github.io/blog/2018/08/14/ur-1st-round-submission-table</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Unknown Rfam Puzzles First Round Closed]]></title>
@@ -440,29 +449,6 @@ TBA</p>
 <p><strong>PDB id</strong>: TBA</p>
 
 <p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/Puzzle9/pdb">raw prediction</a>   |   <a href="http://rnapuzzles.github.io/blog/2000/01/01/puzzle-9-3d/">Assessment results</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Puzzle 8]]></title>
-    <link href="http://rnapuzzles.github.io/blog/2017/11/18/puzzle-8/"/>
-    <updated>2017-11-18T20:41:52+00:00</updated>
-    <id>http://rnapuzzles.github.io/blog/2017/11/18/puzzle-8</id>
-    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):
-GGAUCACGAGGGGGAGACCCCGGCAACCUGGGACGGACACCCAAGGUGCUCACA
-CCGGAGACGGUGGAUCCGGCCCGAGAGGGCAACGAAGUCCGU</p>
-
-<p><strong>Puzzle</strong>:
-SAM riboswitch.</p>
-
-<p>Crystal structure kindly provided by: <a href="http://chem.colorado.edu/bateygroup/"><strong>Robert T. Batey</strong></a></p>
-
-<p><strong>Reference</strong>:
-Trausch JJ, Xu Z, Edwards AL, Reyes FE, Ross PE, Knight R, Batey RT. 2014. Structural basis for diversity in the SAM clan of riboswitches. <a href="http://www.pnas.org/content/111/18/6624.long">PNAS.111(18):6624-9.</a></p>
-
-<p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=4l81">4l81</a></p>
-
-<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/Puzzle8/pdb">raw prediction</a>   |   <a href="http://rnapuzzles.github.io/blog/2000/01/01/puzzle-8-3d/">Assessment results</a></p>
 ]]></content>
   </entry>
   

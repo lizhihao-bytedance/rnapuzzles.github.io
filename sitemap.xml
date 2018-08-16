@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://rnapuzzles.github.io/blog/2018/08/14/ur-1st-round-submission-table/</loc>
+<lastmod>2018-08-14T00:04:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://rnapuzzles.github.io/blog/2018/08/13/unknown-rfam-puzzles-first-round-closed/</loc>
 <lastmod>2018-08-13T23:39:04+01:00</lastmod>
 </url>
@@ -251,5 +255,20 @@
 </url>
 <url>
 <loc>http://rnapuzzles.github.io/blog/categories/results/</loc>
+</url>
+<url>
+<loc>http://rnapuzzles.github.io/posts/2/</loc>
+</url>
+<url>
+<loc>http://rnapuzzles.github.io/posts/3/</loc>
+</url>
+<url>
+<loc>http://rnapuzzles.github.io/posts/4/</loc>
+</url>
+<url>
+<loc>http://rnapuzzles.github.io/posts/5/</loc>
+</url>
+<url>
+<loc>http://rnapuzzles.github.io/posts/6/</loc>
 </url>
 </urlset>
