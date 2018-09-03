@@ -4,7 +4,7 @@
   <title><![CDATA[News | RNA-Puzzles]]></title>
   <link href="http://rnapuzzles.github.io/blog/categories/news/atom.xml" rel="self"/>
   <link href="http://rnapuzzles.github.io/"/>
-  <updated>2018-08-16T09:17:58+01:00</updated>
+  <updated>2018-09-03T13:38:42+01:00</updated>
   <id>http://rnapuzzles.github.io/</id>
   <author>
     <name><![CDATA[Chichau Miau]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Unknown Rfam Puzzles First Round Prediction Release]]></title>
+    <link href="http://rnapuzzles.github.io/blog/2018/09/03/unknown-rfam-puzzles-first-round-prediction-release/"/>
+    <updated>2018-09-03T13:36:47+01:00</updated>
+    <id>http://rnapuzzles.github.io/blog/2018/09/03/unknown-rfam-puzzles-first-round-prediction-release</id>
+    <content type="html"><![CDATA[<p>The first round of the &ldquo;Unknown Rfam Puzzles&rdquo; has been released now within the RNA-Puzzles community.
+Further prediction submissions are still very welcome.
+We would like to encourage experimentalists to help validate some of the good predictions.</p>
+
+<p>A detailed time table for the &ldquo;Unknown Rfam Puzzles&rdquo; is available through <a href="https://docs.google.com/document/d/1dWinu4MDOCW8bhrSmW-9_h8XEHFkCCbd1LAwfH6rrZc/edit?usp=sharing">google doc</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Unknown Rfam Puzzles First Round Closed]]></title>
