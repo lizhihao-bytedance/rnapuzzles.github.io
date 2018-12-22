@@ -4,7 +4,7 @@
   <title><![CDATA[News | RNA-Puzzles]]></title>
   <link href="http://rnapuzzles.github.io/blog/categories/news/atom.xml" rel="self"/>
   <link href="http://rnapuzzles.github.io/"/>
-  <updated>2018-09-03T13:38:42+01:00</updated>
+  <updated>2018-12-22T21:07:56+00:00</updated>
   <id>http://rnapuzzles.github.io/</id>
   <author>
     <name><![CDATA[Chichau Miau]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[PZ20 Release]]></title>
+    <link href="http://rnapuzzles.github.io/blog/2018/12/22/pz20-release/"/>
+    <updated>2018-12-22T21:06:27+00:00</updated>
+    <id>http://rnapuzzles.github.io/blog/2018/12/22/pz20-release</id>
+    <content type="html"><![CDATA[<p>The prediction results of <a href="http://www.rnapuzzles.org/results/">Puzzle 20</a> has been release now!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Unknown Rfam Puzzles First Round Prediction Release]]></title>
@@ -67,15 +76,6 @@ Alternatively, the website can be accessed by <a href="rnapuzzles.tk">rnapuzzles
 <p>Best Wishes!</p>
 
 <p>Chichau</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[RNA-Puzzles Bench]]></title>
-    <link href="http://rnapuzzles.github.io/blog/2017/11/17/rna-puzzles-bench/"/>
-    <updated>2017-11-17T14:26:17+00:00</updated>
-    <id>http://rnapuzzles.github.io/blog/2017/11/17/rna-puzzles-bench</id>
-    <content type="html"><![CDATA[<p>RNA-Puzzles Bench as a Bench mark resource from RNA-Puzzles is available now.</p>
 ]]></content>
   </entry>
   

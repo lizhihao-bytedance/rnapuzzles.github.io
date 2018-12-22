@@ -4,7 +4,7 @@
   <title><![CDATA[Results | RNA-Puzzles]]></title>
   <link href="http://rnapuzzles.github.io/blog/categories/results/atom.xml" rel="self"/>
   <link href="http://rnapuzzles.github.io/"/>
-  <updated>2018-09-03T13:38:42+01:00</updated>
+  <updated>2018-12-22T21:07:56+00:00</updated>
   <id>http://rnapuzzles.github.io/</id>
   <author>
     <name><![CDATA[Chichau Miau]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Puzzle 21]]></title>
-    <link href="http://rnapuzzles.github.io/blog/2017/11/18/puzzle-21/"/>
+    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ21/"/>
     <updated>2017-11-18T20:42:23+00:00</updated>
-    <id>http://rnapuzzles.github.io/blog/2017/11/18/puzzle-21</id>
+    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ21</id>
     <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):</p>
 
 <p>CCGGACGAGGUGCGCCGUACCCGGUCAGGACAAGACGGCGC</p>
@@ -32,44 +32,44 @@ Structure of the Guanidine III Riboswitch. <a href="https://www.ncbi.nlm.nih.gov
 
 <p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=5nwq">5nwq</a>  <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=5nz6">5nz6</a></p>
 
-<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/Puzzle21/pdb">raw prediction</a>   |   <a href="/blog/2000/01/01/puzzle-21-3d/">Assessment results</a></p>
+<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/PZ21/pdb">raw prediction</a>   |   <a href="/blog/2000/01/01/PZ21-3d/">Assessment results</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Puzzle 20]]></title>
-    <link href="http://rnapuzzles.github.io/blog/2017/11/18/puzzle-20/"/>
+    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ20/"/>
     <updated>2017-11-18T20:42:22+00:00</updated>
-    <id>http://rnapuzzles.github.io/blog/2017/11/18/puzzle-20</id>
+    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ20</id>
     <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):
-TBA</p>
+ACCCGCAAGGCCGACGGC-GCCGCCGCUGGUGCAAGUCCAGCCACGCUUCGGCGUGGGCGCUCAUGGGU</p>
 
 <p><strong>Puzzle</strong>:
-TBA.</p>
+Another Twister Sister robozyme</p>
 
-<p>Crystal structure kindly provided by: TBA</p>
+<p>Crystal structure kindly provided by: <a href="http://lsi.zju.edu.cn/redir.php?catalog_id=54267">Amy Ren</a></p>
 
 <p><strong>Reference</strong>:
-TBA</p>
+Zheng, L., Mairhofer, E., Teplova, M., Zhang, Y., Ma, J., Patel, D.J., Micura, R., Ren, A. Structure-based insights into self-cleavage by a four-way junctional twister-sister ribozyme. <a href="https://www.nature.com/articles/s41467-017-01276-y">(2017) Nat Commun 8: 1180-1180</a></p>
 
-<p><strong>PDB id</strong>: TBA</p>
+<p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=5y85">5y85</a> <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=5y87">5y87</a></p>
 
-<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/Puzzle20/pdb">raw prediction</a>   |   <a href="/blog/2000/01/01/puzzle-20-3d/">Assessment results</a></p>
+<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/PZ20/pdb">raw prediction</a>   |   <a href="/blog/2000/01/01/PZ20-3d/">Assessment results</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Puzzle 19]]></title>
-    <link href="http://rnapuzzles.github.io/blog/2017/11/18/puzzle-19/"/>
+    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ19/"/>
     <updated>2017-11-18T20:42:18+00:00</updated>
-    <id>http://rnapuzzles.github.io/blog/2017/11/18/puzzle-19</id>
+    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ19</id>
     <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):</p>
 
 <p>GCAGGGCAAGGCCCAGUCCCGUGCAAGCCGGGACCGCCCC-
 GGGGCGCGGCGCUCAUUCCUGC</p>
 
 <p><strong>Puzzle</strong>:
-twister sister.</p>
+One Twister Sister robozyme</p>
 
 <p>Crystal structure kindly provided by: <a href="http://www.lifesci.dundee.ac.uk/groups/nasg/"><strong>David M J Lilley</strong></a></p>
 
@@ -78,15 +78,15 @@ The structure of a nucleolytic ribozyme that employs a catalytic metal ion. <a h
 
 <p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=5t5a">5t5a</a></p>
 
-<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/Puzzle19/pdb">raw prediction</a>   |   <a href="/blog/2000/01/01/puzzle-19-3d/">Assessment results</a></p>
+<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/PZ19/pdb">raw prediction</a>   |   <a href="/blog/2000/01/01/PZ19-3d/">Assessment results</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Puzzle 18]]></title>
-    <link href="http://rnapuzzles.github.io/blog/2017/11/18/puzzle-18/"/>
+    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ18/"/>
     <updated>2017-11-18T20:42:16+00:00</updated>
-    <id>http://rnapuzzles.github.io/blog/2017/11/18/puzzle-18</id>
+    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ18</id>
     <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):
 GGGUCAGGCCGGCGAAAGUCGCCACAGUUUGGGGAAAGCUGUGCAGCCUGUAAC
 CCCCCCACGAAAGUGGG</p>
@@ -101,15 +101,15 @@ Zika virus produces noncoding RNAs using a multi-pseudoknot structure that confo
 
 <p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=5tpy">5tpy</a></p>
 
-<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/Puzzle18/pdb">raw prediction</a>   |   <a href="/blog/2000/01/01/puzzle-18-3d/">Assessment results</a></p>
+<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/PZ18/pdb">raw prediction</a>   |   <a href="/blog/2000/01/01/PZ18-3d/">Assessment results</a></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Puzzle 17]]></title>
-    <link href="http://rnapuzzles.github.io/blog/2017/11/18/puzzle-17/"/>
+    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ17/"/>
     <updated>2017-11-18T20:42:13+00:00</updated>
-    <id>http://rnapuzzles.github.io/blog/2017/11/18/puzzle-17</id>
+    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ17</id>
     <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):
 CGUGGUUAGGGCCACGUUAAAUAGUUGCUUAAGCCCUAAGCGUUGAUAAAUAUC
 AGGUGCAA</p>
@@ -124,7 +124,7 @@ Pistol ribozyme adopts a pseudoknot fold facilitating site-specific in-line clea
 
 <p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=5k7c">5k7c</a></p>
 
-<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/Puzzle17/pdb">raw prediction</a>   |   <a href="/blog/2000/01/01/puzzle-17-3d/">Assessment results</a></p>
+<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/PZ17/pdb">raw prediction</a>   |   <a href="/blog/2000/01/01/PZ17-3d/">Assessment results</a></p>
 ]]></content>
   </entry>
   
