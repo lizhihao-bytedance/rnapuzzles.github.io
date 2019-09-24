@@ -4,7 +4,7 @@
   <title><![CDATA[Results | RNA-Puzzles]]></title>
   <link href="http://rnapuzzles.github.io/blog/categories/results/atom.xml" rel="self"/>
   <link href="http://rnapuzzles.github.io/"/>
-  <updated>2019-09-16T10:40:41+01:00</updated>
+  <updated>2019-09-24T13:14:05+01:00</updated>
   <id>http://rnapuzzles.github.io/</id>
   <author>
     <name><![CDATA[Chichau Miau]]></name>
@@ -66,8 +66,9 @@ Structure of the Guanidine III Riboswitch. <a href="https://www.ncbi.nlm.nih.gov
     <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ20/"/>
     <updated>2017-11-18T20:42:22+00:00</updated>
     <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ20</id>
-    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):
-ACCCGCAAGGCCGACGGC-GCCGCCGCUGGUGCAAGUCCAGCCACGCUUCGGCGUGGGCGCUCAUGGGU</p>
+    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):  <br/>
+ACCCGCAAGGCCGACGGC-GCCGCCGCUGGUGCAAGUCCAGCCACGCUUC
+GGCGUGGGCGCUCAUGGGU</p>
 
 <p><strong>Puzzle</strong>:
 Another Twister Sister robozyme</p>
@@ -113,8 +114,8 @@ The structure of a nucleolytic ribozyme that employs a catalytic metal ion. <a h
     <updated>2017-11-18T20:42:16+00:00</updated>
     <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ18</id>
     <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):
-GGGUCAGGCCGGCGAAAGUCGCCACAGUUUGGGGAAAGCUGUGCAGCCUGUAAC
-CCCCCCACGAAAGUGGG</p>
+GGGUCAGGCCGGCGAAAGUCGCCACAGUUUGGGGAAAGCUGUGCAGCCUG
+UAACCCCCCCACGAAAGUGGG</p>
 
 <p><strong>Puzzle</strong>:
 Zika virus.</p>
