@@ -4,7 +4,7 @@
   <title><![CDATA[Results | RNA-Puzzles]]></title>
   <link href="http://rnapuzzles.github.io/blog/categories/results/atom.xml" rel="self"/>
   <link href="http://rnapuzzles.github.io/"/>
-  <updated>2019-12-04T16:06:58+00:00</updated>
+  <updated>2020-01-13T16:22:25+00:00</updated>
   <id>http://rnapuzzles.github.io/</id>
   <author>
     <name><![CDATA[Chichau Miau]]></name>
@@ -12,6 +12,123 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Puzzle 28]]></title>
+    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ28/"/>
+    <updated>2017-11-18T20:42:23+00:00</updated>
+    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ28</id>
+    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):</p>
+
+<p>tRNA:  <br/>
+GGGCCUAUAGCUCAGGCGGUUAGAGCGCUUCGCUGAUAACGA  <br/>
+AGAGGUCGGAGGUUCGAGUCCUCCUAGGCCCACCA</p>
+
+<p>T-box:  <br/>
+GGCGACGAUCCGGCCAUCACCGGGGAGCCUUCGGAAGAACGG  <br/>
+CGCCGCCGGAAACGGCGGCGCUCAGUAGAACCGAACGGGUGA  <br/>
+GCCCGUCACAGCUC</p>
+
+<p><strong>Puzzle</strong>:
+T-box riboswitch - tRNA complex (Nocardia farcinica ileS)</p>
+
+<p>Crystal structure kindly provided by: <a href="https://irp.nih.gov/pi/jinwei-zhang"><strong>Jingwei Zhang</strong></a></p>
+
+<p><strong>Reference</strong>:
+High-affinity recognition of specific tRNAs by an mRNA anticodon-binding groove.
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=31792448">Nat Struct Mol Biol. 2019 Dec;26(12):1114-1122. doi: 10.1038/s41594-019-0335-6. Epub 2019 Dec 2.</a></p>
+
+<p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=6ufm">6ufm</a></p>
+
+<p><a href="https://github.com/rnapuzzles/rnapuzzles.github.io/tree/gh-pages/data/PZ28/pdb">raw prediction</a>   |   Assessment results <a href="/blog/2000/01/01/PZ28-3d/">Complex</a> <a href="/blog/2000/01/01/PZ28tBox-3d/">T-box</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Puzzle 27]]></title>
+    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ27/"/>
+    <updated>2017-11-18T20:42:23+00:00</updated>
+    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ27</id>
+    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):</p>
+
+<p>tRNA:
+GCGGAAGTAGTTCAGTGGTAGAACACCACCTTGCCAAGGTGGG   <br/>
+GGTCGCGGGTTCGAATCCCGTCTTCCGCTCCA</p>
+
+<p>T-box:
+GUUGCAGUGAGAGAAAGAAGUACUUGCGUUUACCUCAUGAAAG   <br/>
+CGACCUUAGGGCGGUGUAAGCUAAGGAUGAGCACGCAACGAAA   <br/>
+GGCAUUCUUGAGCAAUUUUAAAAAAGAGGCUGGGAUUUUGUUC   <br/>
+UCAGCAACUAGGGUGGAACCGCGGGAGAACUCUCGUCCCUA</p>
+
+<p><strong>Puzzle</strong>:
+T-box riboswitch - tRNA complex (Bacillus subtilis glyQS)</p>
+
+<p>Crystal structure kindly provided by: <a href="https://irp.nih.gov/pi/jinwei-zhang"><strong>Jingwei Zhang</strong></a></p>
+
+<p><strong>Reference</strong>:
+Structural basis of amino acid surveillance by higher-order tRNA-mRNA interactions.
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=31740854">Nat Struct Mol Biol. 2019 Dec;26(12):1094-1105. doi: 10.1038/s41594-019-0326-7. Epub 2019 Nov 18.</a></p>
+
+<p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=6pom">6pom</a></p>
+
+<p><a href="https://github.com/rnapuzzles/rnapuzzles.github.io/tree/gh-pages/data/PZ27/pdb">raw prediction</a>   |   Assessment results <a href="/blog/2000/01/01/PZ27-3d/">Complex</a> <a href="/blog/2000/01/01/PZ27tBox-3d/">T-box</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Puzzle 26]]></title>
+    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ26/"/>
+    <updated>2017-11-18T20:42:23+00:00</updated>
+    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ26</id>
+    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):</p>
+
+<p>T-box:  <br/>
+GCGGAAGTAGTTCAGTGGTAGAACACCACCTTGCCAAGGTGG  <br/>
+GGGTCGCGGGTTCGAATCCCGTCTTCCGCTCCA</p>
+
+<p>tRNA:  <br/>
+GAAAGUGGGUGCGCGUUUGGCGCAUCAACUCGGGUGGAACCG  <br/>
+CGGGAGCUACGCUCUCGUCCCGAG</p>
+
+<p><strong>Puzzle</strong>:
+T-box riboswitch - tRNA complex (Geobacillus kaustophilus glyQ)</p>
+
+<p>Crystal structure kindly provided by: <a href="https://irp.nih.gov/pi/jinwei-zhang"><strong>Jingwei Zhang</strong></a></p>
+
+<p><strong>Reference</strong>:
+Structural basis of amino acid surveillance by higher-order tRNA-mRNA interactions.
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=31740854">Nat Struct Mol Biol. 2019 Dec;26(12):1094-1105. doi: 10.1038/s41594-019-0326-7. Epub 2019 Nov 18.</a></p>
+
+<p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=6pmo">6pmo</a></p>
+
+<p><a href="https://github.com/rnapuzzles/rnapuzzles.github.io/tree/gh-pages/data/PZ26/pdb">raw prediction</a>   |   Assessment results <a href="/blog/2000/01/01/PZ26-3d/">Complex</a> <a href="/blog/2000/01/01/PZ26tBox-3d/">T-box</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Puzzle 25]]></title>
+    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ25/"/>
+    <updated>2017-11-18T20:42:23+00:00</updated>
+    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ25</id>
+    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):</p>
+
+<p>GGGUGUAAUCUCCAAAAUAUGGUUGGGGAGCCUCCACCAGUGAA
+CCGUAAAAUCGCUGUCACCACCCAG</p>
+
+<p><strong>Puzzle</strong>:
+2'-dG-II riboswitch</p>
+
+<p>Crystal structure kindly provided by: <a href="https://www.colorado.edu/biochemistry/robert-batey"><strong>Batey, R.T.</strong></a></p>
+
+<p><strong>Reference</strong>:
+Structural basis for 2'-deoxyguanosine recognition by the 2'-dG-II class of riboswitches. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=31598729">Nucleic Acids Res. 2019 Nov 18;47(20):10931-10941. doi: 10.1093/nar/gkz839.</a></p>
+
+<p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=6p2h">6p2h</a></p>
+
+<p><a href="https://github.com/rnapuzzles/rnapuzzles.github.io/tree/gh-pages/data/PZ25/pdb">raw prediction</a>   |   <a href="/blog/2000/01/01/PZ25-3d/">Assessment results</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Puzzle 24]]></title>
@@ -35,99 +152,6 @@ Crystal structure of an adenovirus virus-associated RNA. <a href="https://www.na
 <p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=6ol3">6ol3</a></p>
 
 <p><a href="https://github.com/rnapuzzles/rnapuzzles.github.io/tree/gh-pages/data/PZ24/pdb">raw prediction</a>   |   <a href="/blog/2000/01/01/PZ24-3d/">Assessment results</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Puzzle 21]]></title>
-    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ21/"/>
-    <updated>2017-11-18T20:42:23+00:00</updated>
-    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ21</id>
-    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):</p>
-
-<p>CCGGACGAGGUGCGCCGUACCCGGUCAGGACAAGACGGCGC</p>
-
-<p><strong>Puzzle</strong>:
-Guanidine III Riboswitch</p>
-
-<p>Crystal structure kindly provided by: <a href="http://www.lifesci.dundee.ac.uk/groups/nasg/"><strong>David M J Lilley</strong></a></p>
-
-<p><strong>Reference</strong>:
-Structure of the Guanidine III Riboswitch. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=28988949">Cell Chem Biol. 2017 Nov 16;24(11):1407-1415.e2. doi: 10.1016/j.chembiol.2017.08.021. Epub 2017 Oct 5.</a></p>
-
-<p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=5nwq">5nwq</a>  <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=5nz6">5nz6</a></p>
-
-<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/PZ21/pdb">raw prediction</a>   |   <a href="/blog/2000/01/01/PZ21-3d/">Assessment results</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Puzzle 20]]></title>
-    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ20/"/>
-    <updated>2017-11-18T20:42:22+00:00</updated>
-    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ20</id>
-    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):  <br/>
-ACCCGCAAGGCCGACGGC-GCCGCCGCUGGUGCAAGUCCAGCCACGCUUC
-GGCGUGGGCGCUCAUGGGU</p>
-
-<p><strong>Puzzle</strong>:
-Another Twister Sister ribozyme</p>
-
-<p>Crystal structure kindly provided by: <a href="http://lsi.zju.edu.cn/redir.php?catalog_id=54267">Amy Ren</a></p>
-
-<p><strong>Reference</strong>:
-Zheng, L., Mairhofer, E., Teplova, M., Zhang, Y., Ma, J., Patel, D.J., Micura, R., Ren, A. Structure-based insights into self-cleavage by a four-way junctional twister-sister ribozyme. <a href="https://www.nature.com/articles/s41467-017-01276-y">(2017) Nat Commun 8: 1180-1180</a></p>
-
-<p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=5y85">5y85</a> <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=5y87">5y87</a></p>
-
-<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/PZ20/pdb">raw prediction</a>   |   <a href="/blog/2000/01/01/PZ20-3d/">Assessment results</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Puzzle 19]]></title>
-    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ19/"/>
-    <updated>2017-11-18T20:42:18+00:00</updated>
-    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ19</id>
-    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):</p>
-
-<p>GCAGGGCAAGGCCCAGUCCCGUGCAAGCCGGGACCGCCCC-
-GGGGCGCGGCGCUCAUUCCUGC</p>
-
-<p><strong>Puzzle</strong>:
-One Twister Sister robozyme</p>
-
-<p>Crystal structure kindly provided by: <a href="http://www.lifesci.dundee.ac.uk/groups/nasg/"><strong>David M J Lilley</strong></a></p>
-
-<p><strong>Reference</strong>:
-The structure of a nucleolytic ribozyme that employs a catalytic metal ion. <a href="https://www.nature.com/nchembio/journal/v13/n5/full/nchembio.2333.html">Nature Chemical Biology 13, 508–513 (2017) doi:10.1038/nchembio.2333.</a></p>
-
-<p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=5t5a">5t5a</a></p>
-
-<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/PZ19/pdb">raw prediction</a>   |   <a href="/blog/2000/01/01/PZ19-3d/">Assessment results</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Puzzle 18]]></title>
-    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ18/"/>
-    <updated>2017-11-18T20:42:16+00:00</updated>
-    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ18</id>
-    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):
-GGGUCAGGCCGGCGAAAGUCGCCACAGUUUGGGGAAAGCUGUGCAGCCUG
-UAACCCCCCCACGAAAGUGGG</p>
-
-<p><strong>Puzzle</strong>:
-Zika virus.</p>
-
-<p>Crystal structure kindly provided by: <a href="http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Research/researchlabs/KieftLab/Pages/KieftLab.aspx"><strong>Jeffrey S. Kieft</strong></a></p>
-
-<p><strong>Reference</strong>:
-Zika virus produces noncoding RNAs using a multi-pseudoknot structure that confounds a cellular exonuclease. (2016) <a href="http://science.sciencemag.org/content/early/2016/11/04/science.aah3963">Science 354: 1148-1152. DOI: 10.1126/science.aah3963.</a></p>
-
-<p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=5tpy">5tpy</a></p>
-
-<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/PZ18/pdb">raw prediction</a>   |   <a href="/blog/2000/01/01/PZ18-3d/">Assessment results</a></p>
 ]]></content>
   </entry>
   
