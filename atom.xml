@@ -4,7 +4,7 @@
   <title><![CDATA[RNA-Puzzles]]></title>
   <link href="http://rnapuzzles.github.io/atom.xml" rel="self"/>
   <link href="http://rnapuzzles.github.io/"/>
-  <updated>2020-04-13T10:23:17+01:00</updated>
+  <updated>2021-07-16T09:20:52+01:00</updated>
   <id>http://rnapuzzles.github.io/</id>
   <author>
     <name><![CDATA[Chichau Miau]]></name>
@@ -76,6 +76,81 @@ Alternatively, the website can be accessed by <a href="rnapuzzles.tk">rnapuzzles
 <p>Best Wishes!</p>
 
 <p>Chichau</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Puzzle 33]]></title>
+    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ33/"/>
+    <updated>2017-11-18T20:42:23+00:00</updated>
+    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ33</id>
+    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):</p>
+
+<p>GGAGUAGAAGCGUUCAGCGGCCGAAAGGCCGCCCGGAAAUUGCUCC</p>
+
+<p><strong>Puzzle</strong>:
+xanthine riboswitch (Ideonella sp. B508-1)</p>
+
+<p>Crystal structure kindly provided by: <a href="https://person.zju.edu.cn/en/renlab"><strong>Aiming Ren</strong></a></p>
+
+<p><strong>Reference</strong>:
+Insights into xanthine riboswitch structure and metal ion-mediated ligand recognition.
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=34125892">Nucleic Acids Res (2021) </a></p>
+
+<p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=7elp">7elp</a>
+            <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=7elq">7elq</a>
+            <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=7elr">7elr</a>
+            <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=7els">7els</a></p>
+
+<p><a href="https://github.com/rnapuzzles/rnapuzzles.github.io/tree/gh-pages/data/PZ33/pdb">raw prediction</a>   |   <a href="http://rnapuzzles.github.io/blog/2000/01/01/PZ33-3d/">Assessment results</a>)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Puzzle 30]]></title>
+    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ30/"/>
+    <updated>2017-11-18T20:42:23+00:00</updated>
+    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ30</id>
+    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):</p>
+
+<p>GAACCCCGCCUGGAGGCCGCGGUCGGCCCGGGGCUUCUCCGGAGGCACCCACUGCCACCGCGAAGAGUUGGGCUCUGUCAGCCGCGGG</p>
+
+<p><strong>Puzzle</strong>:
+human telomerase RNA</p>
+
+<p>Crystal structure kindly provided by: <a href="https://scholar.google.com/citations?user=QJ4yi2sAAAAJ&amp;hl=th"><strong>Thi Hoang Duong Nguyen</strong></a></p>
+
+<p><strong>Reference</strong>:
+Structure of human telomerase holoenzyme with bound telomeric DNA.
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=33883742">Nature (2021) 593: 449-453</a></p>
+
+<p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=7BG9">7bg9</a></p>
+
+<p><a href="https://github.com/rnapuzzles/rnapuzzles.github.io/tree/gh-pages/data/PZ30/pdb">raw prediction</a>   |   <a href="http://rnapuzzles.github.io/blog/2000/01/01/PZ30-3d/">Assessment results</a>)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Puzzle 29]]></title>
+    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ29/"/>
+    <updated>2017-11-18T20:42:23+00:00</updated>
+    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ29</id>
+    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):</p>
+
+<p>GGCUUCAACAACCCCGUAGGUUGGGCCGAAAGGCAGCGAAUCUACUGGAGCC</p>
+
+<p><strong>Puzzle</strong>:
+NAD+ riboswitch (Candidatus Koribacter versatilis Ellin345)</p>
+
+<p>Crystal structure kindly provided by: <a href="http://jwz.syshospital.org/Item/468017.aspx"><strong>Lin Huang</strong></a></p>
+
+<p><strong>Reference</strong>:
+Structure and ligand binding of the ADP-binding domain of the NAD + riboswitch.
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=32295864">RNA (2020) 26: 878-887</a></p>
+
+<p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=6tb7">6tb7</a></p>
+
+<p><a href="https://github.com/rnapuzzles/rnapuzzles.github.io/tree/gh-pages/data/PZ29/pdb">raw prediction</a>   |   <a href="http://rnapuzzles.github.io/blog/2000/01/01/PZ29-3d/">Assessment results</a>)</p>
 ]]></content>
   </entry>
   
@@ -383,80 +458,6 @@ Pistol ribozyme adopts a pseudoknot fold facilitating site-specific in-line clea
 <p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=5k7c">5k7c</a></p>
 
 <p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/PZ17/pdb">raw prediction</a>   |   <a href="http://rnapuzzles.github.io/blog/2000/01/01/PZ17-3d/">Assessment results</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Puzzle 16]]></title>
-    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ16/"/>
-    <updated>2017-11-18T20:42:11+00:00</updated>
-    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ16</id>
-    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):
-TBA</p>
-
-<p><strong>Puzzle</strong>:
-TBA.</p>
-
-<p>Crystal structure kindly provided by: TBA</p>
-
-<p><strong>Reference</strong>:
-TBA</p>
-
-<p><strong>PDB id</strong>: TBA</p>
-
-<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/PZ16/pdb">raw prediction</a>   |   <a href="http://rnapuzzles.github.io/blog/2000/01/01/PZ16-3d/">Assessment results</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Puzzle 15]]></title>
-    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ15/"/>
-    <updated>2017-11-18T20:42:08+00:00</updated>
-    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ15</id>
-    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'):
-GGGUACUUAAGCCCACUGAUGAGUCGCUGGGAUGCGACGAAACGCCCA-
-GGGCGUCUGGGCAGUACCCA</p>
-
-<p><strong>Puzzle</strong>:
-Hammerhead Ribozyme. Predict as 2 chains.</p>
-
-<p>Crystal structure kindly provided by: <a href="https://ag.purdue.edu/biochem/Pages/Profile.aspx?strAlias=rna&amp;intDirDeptID=9"><strong>Barbara L. Golden</strong></a></p>
-
-<p><strong>Reference</strong>:
-Two Active Site Divalent Ions in the Crystal Structure of the Hammerhead Ribozyme Bound to a Transition State Analogue. <a href="http://pubs.acs.org/doi/abs/10.1021/acs.biochem.5b01139">Biochemistry, 2016, 55 (4), pp 633–636 DOI: 10.1021/acs.biochem.5b01139.</a></p>
-
-<p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=5di4">5di4</a></p>
-
-<p><a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/PZ15/pdb">raw prediction</a>   |   <a href="http://rnapuzzles.github.io/blog/2000/01/01/PZ15-3d/">Assessment results</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Puzzle 14]]></title>
-    <link href="http://rnapuzzles.github.io/blog/2017/11/18/PZ14/"/>
-    <updated>2017-11-18T20:42:06+00:00</updated>
-    <id>http://rnapuzzles.github.io/blog/2017/11/18/PZ14</id>
-    <content type="html"><![CDATA[<p><strong>Sequence</strong> (5' to 3'): <br/>
-Bound form:<br/>
-CGUUGACCCAGGAAACUGGGCGGAAGUAAGGCCCAUUGCACUCCGGGCCUGAAG
-CAACGCG <br/>
-Free form:<br/>
-CGUUGGCCCAGGAAACUGGGUGGAAGUAAGGCCCAUUGCACUCCGGGCCUGAAG
-CAACGCU</p>
-
-<p><strong>Puzzle</strong>:
-L-glutamine riboswitch. Predict both Free and Bound forms.</p>
-
-<p>Crystal structure kindly provided by: <a href="https://www.mskcc.org/research-areas/labs/dinshaw-patel"><strong>Dinshaw Patel</strong></a></p>
-
-<p><strong>Reference</strong>:
-Aiming Ren, Yi Xue, Alla Peselis, Alexander Serganov, Hashim M. Al-Hashimi, Dinshaw J. Patel. Structural and Dynamic Basis for Low-Affinity, High- Selectivity Binding of L-Glutamine by the Glutamine Riboswitch. <a href="http://www.cell.com/cell-reports/abstract/S2211-1247(15">Cell Rep. 2015 Dec 1;13(9):1800-13.</a>01251-6)</p>
-
-<p><strong>PDB id</strong>: <a href="http://www.rcsb.org/pdb/explore/explore.do?structureId=5ddo">5ddo</a></p>
-
-<p><strong>Bound Form:</strong> <a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/PZ14Bound/pdb">raw prediction</a>   |   <a href="http://rnapuzzles.github.io/blog/2000/01/01/PZ14Bound-3d/">Assessment results</a></p>
-
-<p><strong>Free Form:</strong> <a href="https://github.com/chichaumiau/rnapuzzles/tree/gh-pages/data/PZ14Free/pdb">raw prediction</a>   |   <a href="http://rnapuzzles.github.io/blog/2000/01/01/PZ14Free-3d/">Assessment results</a></p>
 ]]></content>
   </entry>
   
